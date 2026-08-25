@@ -1,0 +1,511 @@
+{
+  "framework_name": "Demo Corp Universal Competency Framework (Sample)",
+  "version": "1.0",
+  "scale": "1=Basic, 2=Developing, 3=Proficient, 4=Advanced, 5=Expert",
+  "competencies": [
+    {
+      "id": "COM-01",
+      "category": "Communication",
+      "name": "Written Communication",
+      "description": "Clear emails, reports, and documentation",
+      "levels": {
+        "1": "Basic",
+        "2": "Developing",
+        "3": "Proficient",
+        "4": "Advanced",
+        "5": "Expert"
+      }
+    },
+    {
+      "id": "COM-02",
+      "category": "Communication",
+      "name": "Verbal Presentation",
+      "description": "Presenting ideas to teams and stakeholders",
+      "levels": {
+        "1": "Basic",
+        "2": "Developing",
+        "3": "Proficient",
+        "4": "Advanced",
+        "5": "Expert"
+      }
+    },
+    {
+      "id": "COL-01",
+      "category": "Collaboration",
+      "name": "Team Collaboration",
+      "description": "Working effectively across teams",
+      "levels": {
+        "1": "Basic",
+        "2": "Developing",
+        "3": "Proficient",
+        "4": "Advanced",
+        "5": "Expert"
+      }
+    },
+    {
+      "id": "COL-02",
+      "category": "Collaboration",
+      "name": "Cross-Functional Influence",
+      "description": "Building alignment without direct authority",
+      "levels": {
+        "1": "Basic",
+        "2": "Developing",
+        "3": "Proficient",
+        "4": "Advanced",
+        "5": "Expert"
+      }
+    },
+    {
+      "id": "PS-01",
+      "category": "Problem Solving",
+      "name": "Analytical Thinking",
+      "description": "Breaking down complex problems",
+      "levels": {
+        "1": "Basic",
+        "2": "Developing",
+        "3": "Proficient",
+        "4": "Advanced",
+        "5": "Expert"
+      }
+    },
+    {
+      "id": "PS-02",
+      "category": "Problem Solving",
+      "name": "Decision Making",
+      "description": "Making timely decisions with available data",
+      "levels": {
+        "1": "Basic",
+        "2": "Developing",
+        "3": "Proficient",
+        "4": "Advanced",
+        "5": "Expert"
+      }
+    },
+    {
+      "id": "DIG-01",
+      "category": "Digital Literacy",
+      "name": "Productivity Tools",
+      "description": "Excel, slides, collaboration tools",
+      "levels": {
+        "1": "Basic",
+        "2": "Developing",
+        "3": "Proficient",
+        "4": "Advanced",
+        "5": "Expert"
+      }
+    },
+    {
+      "id": "DIG-02",
+      "category": "Digital Literacy",
+      "name": "Data Literacy",
+      "description": "Reading charts, dashboards, basic metrics",
+      "levels": {
+        "1": "Basic",
+        "2": "Developing",
+        "3": "Proficient",
+        "4": "Advanced",
+        "5": "Expert"
+      }
+    },
+    {
+      "id": "LD-01",
+      "category": "Leadership",
+      "name": "Coaching Others",
+      "description": "Supporting peers and junior colleagues",
+      "levels": {
+        "1": "Basic",
+        "2": "Developing",
+        "3": "Proficient",
+        "4": "Advanced",
+        "5": "Expert"
+      }
+    },
+    {
+      "id": "LD-02",
+      "category": "Leadership",
+      "name": "Strategic Thinking",
+      "description": "Connecting daily work to business goals",
+      "levels": {
+        "1": "Basic",
+        "2": "Developing",
+        "3": "Proficient",
+        "4": "Advanced",
+        "5": "Expert"
+      }
+    }
+  ],
+  "role_requirements": {
+    "Software Engineer": {
+      "COM-01": 2,
+      "COM-02": 2,
+      "COL-01": 2,
+      "COL-02": 2,
+      "PS-01": 2,
+      "PS-02": 2,
+      "DIG-01": 3,
+      "DIG-02": 3,
+      "LD-01": 2,
+      "LD-02": 2
+    },
+    "QA Engineer": {
+      "COM-01": 2,
+      "COM-02": 2,
+      "COL-01": 2,
+      "COL-02": 2,
+      "PS-01": 2,
+      "PS-02": 2,
+      "DIG-01": 3,
+      "DIG-02": 3,
+      "LD-01": 2,
+      "LD-02": 2
+    },
+    "DevOps Engineer": {
+      "COM-01": 2,
+      "COM-02": 2,
+      "COL-01": 2,
+      "COL-02": 2,
+      "PS-01": 2,
+      "PS-02": 2,
+      "DIG-01": 3,
+      "DIG-02": 3,
+      "LD-01": 2,
+      "LD-02": 2
+    },
+    "Engineering Manager": {
+      "COM-01": 4,
+      "COM-02": 4,
+      "COL-01": 4,
+      "COL-02": 4,
+      "PS-01": 4,
+      "PS-02": 4,
+      "DIG-01": 5,
+      "DIG-02": 5,
+      "LD-01": 4,
+      "LD-02": 4
+    },
+    "Account Executive": {
+      "COM-01": 2,
+      "COM-02": 2,
+      "COL-01": 2,
+      "COL-02": 2,
+      "PS-01": 2,
+      "PS-02": 2,
+      "DIG-01": 2,
+      "DIG-02": 2,
+      "LD-01": 2,
+      "LD-02": 2
+    },
+    "Sales Development Rep": {
+      "COM-01": 2,
+      "COM-02": 2,
+      "COL-01": 2,
+      "COL-02": 2,
+      "PS-01": 2,
+      "PS-02": 2,
+      "DIG-01": 2,
+      "DIG-02": 2,
+      "LD-01": 2,
+      "LD-02": 2
+    },
+    "Sales Manager": {
+      "COM-01": 4,
+      "COM-02": 4,
+      "COL-01": 4,
+      "COL-02": 4,
+      "PS-01": 4,
+      "PS-02": 4,
+      "DIG-01": 4,
+      "DIG-02": 4,
+      "LD-01": 4,
+      "LD-02": 4
+    },
+    "Marketing Specialist": {
+      "COM-01": 2,
+      "COM-02": 2,
+      "COL-01": 2,
+      "COL-02": 2,
+      "PS-01": 2,
+      "PS-02": 2,
+      "DIG-01": 2,
+      "DIG-02": 2,
+      "LD-01": 2,
+      "LD-02": 2
+    },
+    "Content Writer": {
+      "COM-01": 2,
+      "COM-02": 2,
+      "COL-01": 2,
+      "COL-02": 2,
+      "PS-01": 2,
+      "PS-02": 2,
+      "DIG-01": 2,
+      "DIG-02": 2,
+      "LD-01": 2,
+      "LD-02": 2
+    },
+    "Digital Marketing Manager": {
+      "COM-01": 4,
+      "COM-02": 4,
+      "COL-01": 4,
+      "COL-02": 4,
+      "PS-01": 4,
+      "PS-02": 4,
+      "DIG-01": 4,
+      "DIG-02": 4,
+      "LD-01": 4,
+      "LD-02": 4
+    },
+    "Operations Coordinator": {
+      "COM-01": 2,
+      "COM-02": 2,
+      "COL-01": 2,
+      "COL-02": 2,
+      "PS-01": 2,
+      "PS-02": 2,
+      "DIG-01": 2,
+      "DIG-02": 2,
+      "LD-01": 2,
+      "LD-02": 2
+    },
+    "Supply Chain Analyst": {
+      "COM-01": 2,
+      "COM-02": 2,
+      "COL-01": 2,
+      "COL-02": 2,
+      "PS-01": 2,
+      "PS-02": 2,
+      "DIG-01": 2,
+      "DIG-02": 2,
+      "LD-01": 2,
+      "LD-02": 2
+    },
+    "Operations Manager": {
+      "COM-01": 4,
+      "COM-02": 4,
+      "COL-01": 4,
+      "COL-02": 4,
+      "PS-01": 4,
+      "PS-02": 4,
+      "DIG-01": 4,
+      "DIG-02": 4,
+      "LD-01": 4,
+      "LD-02": 4
+    },
+    "Financial Analyst": {
+      "COM-01": 2,
+      "COM-02": 2,
+      "COL-01": 2,
+      "COL-02": 2,
+      "PS-01": 2,
+      "PS-02": 2,
+      "DIG-01": 2,
+      "DIG-02": 2,
+      "LD-01": 2,
+      "LD-02": 2
+    },
+    "Accountant": {
+      "COM-01": 2,
+      "COM-02": 2,
+      "COL-01": 2,
+      "COL-02": 2,
+      "PS-01": 2,
+      "PS-02": 2,
+      "DIG-01": 2,
+      "DIG-02": 2,
+      "LD-01": 2,
+      "LD-02": 2
+    },
+    "Finance Manager": {
+      "COM-01": 4,
+      "COM-02": 4,
+      "COL-01": 4,
+      "COL-02": 4,
+      "PS-01": 4,
+      "PS-02": 4,
+      "DIG-01": 4,
+      "DIG-02": 4,
+      "LD-01": 4,
+      "LD-02": 4
+    },
+    "HR Generalist": {
+      "COM-01": 2,
+      "COM-02": 2,
+      "COL-01": 2,
+      "COL-02": 2,
+      "PS-01": 2,
+      "PS-02": 2,
+      "DIG-01": 2,
+      "DIG-02": 2,
+      "LD-01": 2,
+      "LD-02": 2
+    },
+    "L&D Coordinator": {
+      "COM-01": 2,
+      "COM-02": 2,
+      "COL-01": 2,
+      "COL-02": 2,
+      "PS-01": 2,
+      "PS-02": 2,
+      "DIG-01": 2,
+      "DIG-02": 2,
+      "LD-01": 2,
+      "LD-02": 2
+    },
+    "HR Manager": {
+      "COM-01": 4,
+      "COM-02": 4,
+      "COL-01": 4,
+      "COL-02": 4,
+      "PS-01": 4,
+      "PS-02": 4,
+      "DIG-01": 4,
+      "DIG-02": 4,
+      "LD-01": 4,
+      "LD-02": 4
+    },
+    "CS Specialist": {
+      "COM-01": 2,
+      "COM-02": 2,
+      "COL-01": 2,
+      "COL-02": 2,
+      "PS-01": 2,
+      "PS-02": 2,
+      "DIG-01": 2,
+      "DIG-02": 2,
+      "LD-01": 2,
+      "LD-02": 2
+    },
+    "CS Manager": {
+      "COM-01": 4,
+      "COM-02": 4,
+      "COL-01": 4,
+      "COL-02": 4,
+      "PS-01": 4,
+      "PS-02": 4,
+      "DIG-01": 4,
+      "DIG-02": 4,
+      "LD-01": 4,
+      "LD-02": 4
+    },
+    "Implementation Consultant": {
+      "COM-01": 2,
+      "COM-02": 2,
+      "COL-01": 2,
+      "COL-02": 2,
+      "PS-01": 2,
+      "PS-02": 2,
+      "DIG-01": 2,
+      "DIG-02": 2,
+      "LD-01": 2,
+      "LD-02": 2
+    },
+    "Product Analyst": {
+      "COM-01": 2,
+      "COM-02": 2,
+      "COL-01": 2,
+      "COL-02": 2,
+      "PS-01": 2,
+      "PS-02": 2,
+      "DIG-01": 3,
+      "DIG-02": 3,
+      "LD-01": 2,
+      "LD-02": 2
+    },
+    "Product Manager": {
+      "COM-01": 4,
+      "COM-02": 4,
+      "COL-01": 4,
+      "COL-02": 4,
+      "PS-01": 4,
+      "PS-02": 4,
+      "DIG-01": 5,
+      "DIG-02": 5,
+      "LD-01": 4,
+      "LD-02": 4
+    },
+    "UX Designer": {
+      "COM-01": 2,
+      "COM-02": 2,
+      "COL-01": 2,
+      "COL-02": 2,
+      "PS-01": 2,
+      "PS-02": 2,
+      "DIG-01": 3,
+      "DIG-02": 3,
+      "LD-01": 2,
+      "LD-02": 2
+    },
+    "IT Support Specialist": {
+      "COM-01": 2,
+      "COM-02": 2,
+      "COL-01": 2,
+      "COL-02": 2,
+      "PS-01": 2,
+      "PS-02": 2,
+      "DIG-01": 3,
+      "DIG-02": 3,
+      "LD-01": 2,
+      "LD-02": 2
+    },
+    "Systems Administrator": {
+      "COM-01": 2,
+      "COM-02": 2,
+      "COL-01": 2,
+      "COL-02": 2,
+      "PS-01": 2,
+      "PS-02": 2,
+      "DIG-01": 3,
+      "DIG-02": 3,
+      "LD-01": 2,
+      "LD-02": 2
+    },
+    "IT Manager": {
+      "COM-01": 4,
+      "COM-02": 4,
+      "COL-01": 4,
+      "COL-02": 4,
+      "PS-01": 4,
+      "PS-02": 4,
+      "DIG-01": 5,
+      "DIG-02": 5,
+      "LD-01": 4,
+      "LD-02": 4
+    },
+    "Legal Counsel": {
+      "COM-01": 2,
+      "COM-02": 2,
+      "COL-01": 2,
+      "COL-02": 2,
+      "PS-01": 2,
+      "PS-02": 2,
+      "DIG-01": 2,
+      "DIG-02": 2,
+      "LD-01": 2,
+      "LD-02": 2
+    },
+    "Compliance Officer": {
+      "COM-01": 2,
+      "COM-02": 2,
+      "COL-01": 2,
+      "COL-02": 2,
+      "PS-01": 2,
+      "PS-02": 2,
+      "DIG-01": 2,
+      "DIG-02": 2,
+      "LD-01": 2,
+      "LD-02": 2
+    },
+    "Legal Assistant": {
+      "COM-01": 2,
+      "COM-02": 2,
+      "COL-01": 2,
+      "COL-02": 2,
+      "PS-01": 2,
+      "PS-02": 2,
+      "DIG-01": 2,
+      "DIG-02": 2,
+      "LD-01": 2,
+      "LD-02": 2
+    }
+  }
+}
