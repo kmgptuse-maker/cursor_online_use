@@ -1,0 +1,229 @@
+{
+  "courses": [
+    {
+      "course_id": "TRN001",
+      "title": "Effective Business Writing",
+      "category": "Communication",
+      "description": "Half-day workshop",
+      "duration_hours": 4,
+      "format": "In-person",
+      "next_session_date": "2026-07-18",
+      "max_seats": 20,
+      "status": "Open",
+      "skills_covered": [
+        "COM-01",
+        "COM-02"
+      ]
+    },
+    {
+      "course_id": "TRN002",
+      "title": "Presentation Skills Masterclass",
+      "category": "Communication",
+      "description": "Full-day workshop",
+      "duration_hours": 8,
+      "format": "In-person",
+      "next_session_date": "2026-07-01",
+      "max_seats": 15,
+      "status": "Open",
+      "skills_covered": [
+        "COM-01",
+        "COM-02"
+      ]
+    },
+    {
+      "course_id": "TRN003",
+      "title": "Collaboration in Hybrid Teams",
+      "category": "Collaboration",
+      "description": "2-hour webinar",
+      "duration_hours": 2,
+      "format": "Virtual",
+      "next_session_date": "2026-05-14",
+      "max_seats": 25,
+      "status": "Open",
+      "skills_covered": [
+        "COL-01",
+        "COL-02"
+      ]
+    },
+    {
+      "course_id": "TRN004",
+      "title": "Influence Without Authority",
+      "category": "Collaboration",
+      "description": "Half-day workshop",
+      "duration_hours": 4,
+      "format": "Hybrid",
+      "next_session_date": "2026-04-19",
+      "max_seats": 20,
+      "status": "Open",
+      "skills_covered": [
+        "COL-01",
+        "COL-02"
+      ]
+    },
+    {
+      "course_id": "TRN005",
+      "title": "Structured Problem Solving",
+      "category": "Problem Solving",
+      "description": "Full-day workshop",
+      "duration_hours": 8,
+      "format": "In-person",
+      "next_session_date": "2026-07-03",
+      "max_seats": 25,
+      "status": "Open",
+      "skills_covered": [
+        "PS-01",
+        "PS-02"
+      ]
+    },
+    {
+      "course_id": "TRN006",
+      "title": "Data-Driven Decision Making",
+      "category": "Problem Solving",
+      "description": "Half-day workshop",
+      "duration_hours": 4,
+      "format": "Virtual",
+      "next_session_date": "2026-05-06",
+      "max_seats": 20,
+      "status": "Open",
+      "skills_covered": [
+        "PS-01",
+        "PS-02"
+      ]
+    },
+    {
+      "course_id": "TRN007",
+      "title": "Excel for Professionals",
+      "category": "Digital Literacy",
+      "description": "3-hour webinar",
+      "duration_hours": 3,
+      "format": "Virtual",
+      "next_session_date": "2026-04-26",
+      "max_seats": 15,
+      "status": "Open",
+      "skills_covered": [
+        "DIG-01",
+        "DIG-02"
+      ]
+    },
+    {
+      "course_id": "TRN008",
+      "title": "Dashboards & Metrics 101",
+      "category": "Digital Literacy",
+      "description": "2-hour webinar",
+      "duration_hours": 2,
+      "format": "Virtual",
+      "next_session_date": "2026-04-13",
+      "max_seats": 20,
+      "status": "Open",
+      "skills_covered": [
+        "DIG-01",
+        "DIG-02"
+      ]
+    },
+    {
+      "course_id": "TRN009",
+      "title": "Coaching Fundamentals for People Leaders",
+      "category": "Leadership",
+      "description": "Full-day workshop",
+      "duration_hours": 8,
+      "format": "In-person",
+      "next_session_date": "2026-06-07",
+      "max_seats": 15,
+      "status": "Open",
+      "skills_covered": [
+        "LD-01",
+        "LD-02"
+      ]
+    },
+    {
+      "course_id": "TRN010",
+      "title": "Strategic Thinking for Managers",
+      "category": "Leadership",
+      "description": "Half-day workshop",
+      "duration_hours": 4,
+      "format": "Hybrid",
+      "next_session_date": "2026-06-05",
+      "max_seats": 30,
+      "status": "Open",
+      "skills_covered": [
+        "LD-01",
+        "LD-02"
+      ]
+    },
+    {
+      "course_id": "TRN011",
+      "title": "Time Management Essentials",
+      "category": "Digital Literacy",
+      "description": "2-hour webinar",
+      "duration_hours": 2,
+      "format": "Virtual",
+      "next_session_date": "2026-07-30",
+      "max_seats": 20,
+      "status": "Open",
+      "skills_covered": [
+        "DIG-01",
+        "DIG-02"
+      ]
+    },
+    {
+      "course_id": "TRN012",
+      "title": "Conflict Resolution at Work",
+      "category": "Collaboration",
+      "description": "Half-day workshop",
+      "duration_hours": 4,
+      "format": "In-person",
+      "next_session_date": "2026-07-08",
+      "max_seats": 30,
+      "status": "Open",
+      "skills_covered": [
+        "COL-01",
+        "COL-02"
+      ]
+    },
+    {
+      "course_id": "TRN013",
+      "title": "AI Tools for Everyday Work",
+      "category": "Digital Literacy",
+      "description": "90-min webinar",
+      "duration_hours": 1.5,
+      "format": "Virtual",
+      "next_session_date": "2026-06-10",
+      "max_seats": 30,
+      "status": "Open",
+      "skills_covered": [
+        "DIG-01",
+        "DIG-02"
+      ]
+    },
+    {
+      "course_id": "TRN014",
+      "title": "Project Management Basics",
+      "category": "Problem Solving",
+      "description": "Full-day workshop",
+      "duration_hours": 8,
+      "format": "Hybrid",
+      "next_session_date": "2026-05-09",
+      "max_seats": 20,
+      "status": "Open",
+      "skills_covered": [
+        "PS-01",
+        "PS-02"
+      ]
+    },
+    {
+      "course_id": "TRN015",
+      "title": "Customer Communication Skills",
+      "category": "Communication",
+      "description": "Half-day workshop",
+      "duration_hours": 4,
+      "format": "Virtual",
+      "next_session_date": "2026-06-30",
+      "max_seats": 15,
+      "status": "Open",
+      "skills_covered": [
+        "COM-01",
+        "COM-02"
+      ]
+    }
+  ]
+}

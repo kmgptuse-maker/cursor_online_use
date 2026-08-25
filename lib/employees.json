@@ -1,0 +1,1002 @@
+[
+  {
+    "employee_id": "EMP0001",
+    "full_name": "James Taylor",
+    "email": "james.taylor1@demo-corp.example",
+    "department": "Sales",
+    "job_role": "Account Executive",
+    "years_of_service": 4.1,
+    "hire_date": "2022-05-26",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0002",
+    "full_name": "Jamie Scott",
+    "email": "jamie.scott2@demo-corp.example",
+    "department": "Marketing",
+    "job_role": "Digital Marketing Manager",
+    "years_of_service": 1.8,
+    "hire_date": "2024-09-12",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0003",
+    "full_name": "Jordan Wong",
+    "email": "jordan.wong3@demo-corp.example",
+    "department": "Customer Success",
+    "job_role": "CS Specialist",
+    "years_of_service": 3.7,
+    "hire_date": "2022-10-19",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0004",
+    "full_name": "Jordan Green",
+    "email": "jordan.green4@demo-corp.example",
+    "department": "IT",
+    "job_role": "IT Manager",
+    "years_of_service": 3.4,
+    "hire_date": "2023-02-06",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0005",
+    "full_name": "Robin Walker",
+    "email": "robin.walker5@demo-corp.example",
+    "department": "IT",
+    "job_role": "Systems Administrator",
+    "years_of_service": 9.0,
+    "hire_date": "2017-07-01",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0006",
+    "full_name": "Elizabeth Lewis",
+    "email": "elizabeth.lewis6@demo-corp.example",
+    "department": "Engineering",
+    "job_role": "QA Engineer",
+    "years_of_service": 5.4,
+    "hire_date": "2021-02-05",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0007",
+    "full_name": "Victoria White",
+    "email": "victoria.white7@demo-corp.example",
+    "department": "Marketing",
+    "job_role": "Marketing Specialist",
+    "years_of_service": 2.0,
+    "hire_date": "2024-07-01",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0008",
+    "full_name": "Olivia Harris",
+    "email": "olivia.harris8@demo-corp.example",
+    "department": "Customer Success",
+    "job_role": "CS Specialist",
+    "years_of_service": 9.3,
+    "hire_date": "2017-03-14",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0009",
+    "full_name": "Amelia Brown",
+    "email": "amelia.brown9@demo-corp.example",
+    "department": "Engineering",
+    "job_role": "Engineering Manager",
+    "years_of_service": 14.6,
+    "hire_date": "2011-11-25",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0010",
+    "full_name": "Jack Anderson",
+    "email": "jack.anderson10@demo-corp.example",
+    "department": "Customer Success",
+    "job_role": "CS Specialist",
+    "years_of_service": 12.5,
+    "hire_date": "2013-12-31",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0011",
+    "full_name": "Harper Jones",
+    "email": "harper.jones11@demo-corp.example",
+    "department": "Legal",
+    "job_role": "Compliance Officer",
+    "years_of_service": 10.7,
+    "hire_date": "2015-10-19",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0012",
+    "full_name": "Michael Anderson",
+    "email": "michael.anderson12@demo-corp.example",
+    "department": "Engineering",
+    "job_role": "QA Engineer",
+    "years_of_service": 14.8,
+    "hire_date": "2011-09-13",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0013",
+    "full_name": "Ava Taylor",
+    "email": "ava.taylor13@demo-corp.example",
+    "department": "Operations",
+    "job_role": "Operations Coordinator",
+    "years_of_service": 7.1,
+    "hire_date": "2019-05-26",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0014",
+    "full_name": "Noah Harris",
+    "email": "noah.harris14@demo-corp.example",
+    "department": "HR",
+    "job_role": "HR Generalist",
+    "years_of_service": 3.5,
+    "hire_date": "2022-12-31",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0015",
+    "full_name": "David Singh",
+    "email": "david.singh15@demo-corp.example",
+    "department": "Finance",
+    "job_role": "Finance Manager",
+    "years_of_service": 9.3,
+    "hire_date": "2017-03-14",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0016",
+    "full_name": "Sofia Wilson",
+    "email": "sofia.wilson16@demo-corp.example",
+    "department": "Marketing",
+    "job_role": "Digital Marketing Manager",
+    "years_of_service": 2.9,
+    "hire_date": "2023-08-07",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0017",
+    "full_name": "Abigail Green",
+    "email": "abigail.green17@demo-corp.example",
+    "department": "Customer Success",
+    "job_role": "CS Manager",
+    "years_of_service": 3.7,
+    "hire_date": "2022-10-19",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0018",
+    "full_name": "Robin Nguyen",
+    "email": "robin.nguyen18@demo-corp.example",
+    "department": "HR",
+    "job_role": "HR Generalist",
+    "years_of_service": 12.2,
+    "hire_date": "2014-04-19",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0019",
+    "full_name": "Casey Davis",
+    "email": "casey.davis19@demo-corp.example",
+    "department": "Customer Success",
+    "job_role": "CS Manager",
+    "years_of_service": 13.7,
+    "hire_date": "2012-10-19",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0020",
+    "full_name": "Emma Davis",
+    "email": "emma.davis20@demo-corp.example",
+    "department": "Legal",
+    "job_role": "Legal Assistant",
+    "years_of_service": 10.0,
+    "hire_date": "2016-07-01",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0021",
+    "full_name": "Logan Martinez",
+    "email": "logan.martinez21@demo-corp.example",
+    "department": "Customer Success",
+    "job_role": "Implementation Consultant",
+    "years_of_service": 4.3,
+    "hire_date": "2022-03-14",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0022",
+    "full_name": "Jack Scott",
+    "email": "jack.scott22@demo-corp.example",
+    "department": "Operations",
+    "job_role": "Operations Manager",
+    "years_of_service": 4.3,
+    "hire_date": "2022-03-14",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0023",
+    "full_name": "Benjamin Robinson",
+    "email": "benjamin.robinson23@demo-corp.example",
+    "department": "Legal",
+    "job_role": "Compliance Officer",
+    "years_of_service": 5.7,
+    "hire_date": "2020-10-19",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0024",
+    "full_name": "Lucas Wong",
+    "email": "lucas.wong24@demo-corp.example",
+    "department": "Marketing",
+    "job_role": "Digital Marketing Manager",
+    "years_of_service": 11.5,
+    "hire_date": "2014-12-31",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0025",
+    "full_name": "Abigail Johnson",
+    "email": "abigail.johnson25@demo-corp.example",
+    "department": "Sales",
+    "job_role": "Account Executive",
+    "years_of_service": 12.0,
+    "hire_date": "2014-07-01",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0026",
+    "full_name": "Casey Thompson",
+    "email": "casey.thompson26@demo-corp.example",
+    "department": "Customer Success",
+    "job_role": "Implementation Consultant",
+    "years_of_service": 6.0,
+    "hire_date": "2020-07-01",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0027",
+    "full_name": "Dana Green",
+    "email": "dana.green27@demo-corp.example",
+    "department": "Product",
+    "job_role": "UX Designer",
+    "years_of_service": 13.0,
+    "hire_date": "2013-07-01",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0028",
+    "full_name": "David Scott",
+    "email": "david.scott28@demo-corp.example",
+    "department": "Engineering",
+    "job_role": "Software Engineer",
+    "years_of_service": 11.4,
+    "hire_date": "2015-02-06",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0029",
+    "full_name": "Kelly Lewis",
+    "email": "kelly.lewis29@demo-corp.example",
+    "department": "HR",
+    "job_role": "HR Generalist",
+    "years_of_service": 2.8,
+    "hire_date": "2023-09-13",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0030",
+    "full_name": "Charlotte Williams",
+    "email": "charlotte.williams30@demo-corp.example",
+    "department": "Engineering",
+    "job_role": "DevOps Engineer",
+    "years_of_service": 7.9,
+    "hire_date": "2018-08-07",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0031",
+    "full_name": "Tracy King",
+    "email": "tracy.king31@demo-corp.example",
+    "department": "Sales",
+    "job_role": "Sales Manager",
+    "years_of_service": 9.3,
+    "hire_date": "2017-03-14",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0032",
+    "full_name": "Victoria Johnson",
+    "email": "victoria.johnson32@demo-corp.example",
+    "department": "Marketing",
+    "job_role": "Content Writer",
+    "years_of_service": 8.3,
+    "hire_date": "2018-03-14",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0033",
+    "full_name": "Evelyn Jackson",
+    "email": "evelyn.jackson33@demo-corp.example",
+    "department": "IT",
+    "job_role": "IT Support Specialist",
+    "years_of_service": 7.6,
+    "hire_date": "2018-11-25",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0034",
+    "full_name": "Tracy Wilson",
+    "email": "tracy.wilson34@demo-corp.example",
+    "department": "Sales",
+    "job_role": "Sales Development Rep",
+    "years_of_service": 1.3,
+    "hire_date": "2025-03-14",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0035",
+    "full_name": "Riley Young",
+    "email": "riley.young35@demo-corp.example",
+    "department": "Legal",
+    "job_role": "Legal Counsel",
+    "years_of_service": 12.3,
+    "hire_date": "2014-03-14",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0036",
+    "full_name": "Quinn Allen",
+    "email": "quinn.allen36@demo-corp.example",
+    "department": "IT",
+    "job_role": "IT Support Specialist",
+    "years_of_service": 14.2,
+    "hire_date": "2012-04-19",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0037",
+    "full_name": "Henry Nelson",
+    "email": "henry.nelson37@demo-corp.example",
+    "department": "Marketing",
+    "job_role": "Content Writer",
+    "years_of_service": 6.6,
+    "hire_date": "2019-11-25",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0038",
+    "full_name": "Victoria Jones",
+    "email": "victoria.jones38@demo-corp.example",
+    "department": "Operations",
+    "job_role": "Operations Manager",
+    "years_of_service": 10.8,
+    "hire_date": "2015-09-13",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0039",
+    "full_name": "Matthew Martin",
+    "email": "matthew.martin39@demo-corp.example",
+    "department": "Customer Success",
+    "job_role": "Implementation Consultant",
+    "years_of_service": 6.9,
+    "hire_date": "2019-08-07",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0040",
+    "full_name": "Avery Wilson",
+    "email": "avery.wilson40@demo-corp.example",
+    "department": "IT",
+    "job_role": "Systems Administrator",
+    "years_of_service": 3.8,
+    "hire_date": "2022-09-13",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0041",
+    "full_name": "Benjamin Green",
+    "email": "benjamin.green41@demo-corp.example",
+    "department": "HR",
+    "job_role": "HR Generalist",
+    "years_of_service": 3.8,
+    "hire_date": "2022-09-13",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0042",
+    "full_name": "Casey Kim",
+    "email": "casey.kim42@demo-corp.example",
+    "department": "Operations",
+    "job_role": "Operations Coordinator",
+    "years_of_service": 3.8,
+    "hire_date": "2022-09-13",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0043",
+    "full_name": "Casey King",
+    "email": "casey.king43@demo-corp.example",
+    "department": "Engineering",
+    "job_role": "DevOps Engineer",
+    "years_of_service": 4.0,
+    "hire_date": "2022-07-01",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0044",
+    "full_name": "Amelia Garcia",
+    "email": "amelia.garcia44@demo-corp.example",
+    "department": "Product",
+    "job_role": "Product Analyst",
+    "years_of_service": 11.0,
+    "hire_date": "2015-07-02",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0045",
+    "full_name": "Mia Wilson",
+    "email": "mia.wilson45@demo-corp.example",
+    "department": "Legal",
+    "job_role": "Legal Assistant",
+    "years_of_service": 11.9,
+    "hire_date": "2014-08-07",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0046",
+    "full_name": "Jamie Lee",
+    "email": "jamie.lee46@demo-corp.example",
+    "department": "Customer Success",
+    "job_role": "CS Specialist",
+    "years_of_service": 10.1,
+    "hire_date": "2016-05-25",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0047",
+    "full_name": "Sophia Hall",
+    "email": "sophia.hall47@demo-corp.example",
+    "department": "HR",
+    "job_role": "L&D Coordinator",
+    "years_of_service": 13.0,
+    "hire_date": "2013-07-01",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0048",
+    "full_name": "Morgan Robinson",
+    "email": "morgan.robinson48@demo-corp.example",
+    "department": "Engineering",
+    "job_role": "Software Engineer",
+    "years_of_service": 11.1,
+    "hire_date": "2015-05-26",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0049",
+    "full_name": "Pat Jones",
+    "email": "pat.jones49@demo-corp.example",
+    "department": "Sales",
+    "job_role": "Account Executive",
+    "years_of_service": 8.3,
+    "hire_date": "2018-03-14",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0050",
+    "full_name": "Chris Taylor",
+    "email": "chris.taylor50@demo-corp.example",
+    "department": "Marketing",
+    "job_role": "Content Writer",
+    "years_of_service": 7.2,
+    "hire_date": "2019-04-20",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0051",
+    "full_name": "Jack Lee",
+    "email": "jack.lee51@demo-corp.example",
+    "department": "Sales",
+    "job_role": "Sales Development Rep",
+    "years_of_service": 1.2,
+    "hire_date": "2025-04-19",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0052",
+    "full_name": "Riley Wilson",
+    "email": "riley.wilson52@demo-corp.example",
+    "department": "IT",
+    "job_role": "IT Support Specialist",
+    "years_of_service": 2.9,
+    "hire_date": "2023-08-07",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0053",
+    "full_name": "Drew Robinson",
+    "email": "drew.robinson53@demo-corp.example",
+    "department": "Product",
+    "job_role": "Product Manager",
+    "years_of_service": 13.6,
+    "hire_date": "2012-11-24",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0054",
+    "full_name": "Alex Thompson",
+    "email": "alex.thompson54@demo-corp.example",
+    "department": "Marketing",
+    "job_role": "Content Writer",
+    "years_of_service": 4.3,
+    "hire_date": "2022-03-14",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0055",
+    "full_name": "Mason Green",
+    "email": "mason.green55@demo-corp.example",
+    "department": "Product",
+    "job_role": "Product Manager",
+    "years_of_service": 10.1,
+    "hire_date": "2016-05-25",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0056",
+    "full_name": "Pat Anderson",
+    "email": "pat.anderson56@demo-corp.example",
+    "department": "Product",
+    "job_role": "Product Analyst",
+    "years_of_service": 3.7,
+    "hire_date": "2022-10-19",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0057",
+    "full_name": "James Jackson",
+    "email": "james.jackson57@demo-corp.example",
+    "department": "Engineering",
+    "job_role": "Software Engineer",
+    "years_of_service": 1.3,
+    "hire_date": "2025-03-14",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0058",
+    "full_name": "Charlotte Wright",
+    "email": "charlotte.wright58@demo-corp.example",
+    "department": "Legal",
+    "job_role": "Compliance Officer",
+    "years_of_service": 2.8,
+    "hire_date": "2023-09-13",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0059",
+    "full_name": "Chris Singh",
+    "email": "chris.singh59@demo-corp.example",
+    "department": "IT",
+    "job_role": "IT Support Specialist",
+    "years_of_service": 9.1,
+    "hire_date": "2017-05-26",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0060",
+    "full_name": "Avery Baker",
+    "email": "avery.baker60@demo-corp.example",
+    "department": "Operations",
+    "job_role": "Supply Chain Analyst",
+    "years_of_service": 4.1,
+    "hire_date": "2022-05-26",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0061",
+    "full_name": "Daniel Wong",
+    "email": "daniel.wong61@demo-corp.example",
+    "department": "Legal",
+    "job_role": "Legal Counsel",
+    "years_of_service": 6.6,
+    "hire_date": "2019-11-25",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0062",
+    "full_name": "Henry Jackson",
+    "email": "henry.jackson62@demo-corp.example",
+    "department": "Legal",
+    "job_role": "Legal Assistant",
+    "years_of_service": 14.1,
+    "hire_date": "2012-05-25",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0063",
+    "full_name": "Joseph Jackson",
+    "email": "joseph.jackson63@demo-corp.example",
+    "department": "Operations",
+    "job_role": "Operations Manager",
+    "years_of_service": 4.0,
+    "hire_date": "2022-07-01",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0064",
+    "full_name": "Emily Thomas",
+    "email": "emily.thomas64@demo-corp.example",
+    "department": "Customer Success",
+    "job_role": "CS Specialist",
+    "years_of_service": 7.1,
+    "hire_date": "2019-05-26",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0065",
+    "full_name": "Logan Hill",
+    "email": "logan.hill65@demo-corp.example",
+    "department": "Sales",
+    "job_role": "Account Executive",
+    "years_of_service": 15.0,
+    "hire_date": "2011-07-02",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0066",
+    "full_name": "Amelia Davis",
+    "email": "amelia.davis66@demo-corp.example",
+    "department": "Sales",
+    "job_role": "Account Executive",
+    "years_of_service": 7.8,
+    "hire_date": "2018-09-13",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0067",
+    "full_name": "Casey Wilson",
+    "email": "casey.wilson67@demo-corp.example",
+    "department": "Marketing",
+    "job_role": "Content Writer",
+    "years_of_service": 5.9,
+    "hire_date": "2020-08-07",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0068",
+    "full_name": "Amelia Thomas",
+    "email": "amelia.thomas68@demo-corp.example",
+    "department": "Marketing",
+    "job_role": "Content Writer",
+    "years_of_service": 9.4,
+    "hire_date": "2017-02-05",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0069",
+    "full_name": "Emily Green",
+    "email": "emily.green69@demo-corp.example",
+    "department": "IT",
+    "job_role": "IT Support Specialist",
+    "years_of_service": 4.8,
+    "hire_date": "2021-09-12",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0070",
+    "full_name": "Dana Brown",
+    "email": "dana.brown70@demo-corp.example",
+    "department": "Sales",
+    "job_role": "Account Executive",
+    "years_of_service": 13.4,
+    "hire_date": "2013-02-05",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0071",
+    "full_name": "Leslie Anderson",
+    "email": "leslie.anderson71@demo-corp.example",
+    "department": "IT",
+    "job_role": "IT Support Specialist",
+    "years_of_service": 9.3,
+    "hire_date": "2017-03-14",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0072",
+    "full_name": "David Moore",
+    "email": "david.moore72@demo-corp.example",
+    "department": "HR",
+    "job_role": "HR Generalist",
+    "years_of_service": 7.8,
+    "hire_date": "2018-09-13",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0073",
+    "full_name": "Riley Lewis",
+    "email": "riley.lewis73@demo-corp.example",
+    "department": "Finance",
+    "job_role": "Financial Analyst",
+    "years_of_service": 12.5,
+    "hire_date": "2013-12-31",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0074",
+    "full_name": "Liam Garcia",
+    "email": "liam.garcia74@demo-corp.example",
+    "department": "Engineering",
+    "job_role": "Software Engineer",
+    "years_of_service": 9.7,
+    "hire_date": "2016-10-19",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0075",
+    "full_name": "James Walker",
+    "email": "james.walker75@demo-corp.example",
+    "department": "Finance",
+    "job_role": "Financial Analyst",
+    "years_of_service": 8.5,
+    "hire_date": "2017-12-31",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0076",
+    "full_name": "Alex Brown",
+    "email": "alex.brown76@demo-corp.example",
+    "department": "Customer Success",
+    "job_role": "Implementation Consultant",
+    "years_of_service": 1.6,
+    "hire_date": "2024-11-24",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0077",
+    "full_name": "Taylor Martin",
+    "email": "taylor.martin77@demo-corp.example",
+    "department": "Marketing",
+    "job_role": "Digital Marketing Manager",
+    "years_of_service": 8.9,
+    "hire_date": "2017-08-07",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0078",
+    "full_name": "Quinn Nguyen",
+    "email": "quinn.nguyen78@demo-corp.example",
+    "department": "Marketing",
+    "job_role": "Content Writer",
+    "years_of_service": 5.0,
+    "hire_date": "2021-07-01",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0079",
+    "full_name": "Drew Wilson",
+    "email": "drew.wilson79@demo-corp.example",
+    "department": "Engineering",
+    "job_role": "DevOps Engineer",
+    "years_of_service": 10.2,
+    "hire_date": "2016-04-19",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0080",
+    "full_name": "Sophia Hill",
+    "email": "sophia.hill80@demo-corp.example",
+    "department": "HR",
+    "job_role": "HR Manager",
+    "years_of_service": 11.4,
+    "hire_date": "2015-02-06",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0081",
+    "full_name": "Chris Clark",
+    "email": "chris.clark81@demo-corp.example",
+    "department": "Operations",
+    "job_role": "Operations Coordinator",
+    "years_of_service": 0.9,
+    "hire_date": "2025-08-07",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0082",
+    "full_name": "Emily Wilson",
+    "email": "emily.wilson82@demo-corp.example",
+    "department": "HR",
+    "job_role": "L&D Coordinator",
+    "years_of_service": 4.4,
+    "hire_date": "2022-02-05",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0083",
+    "full_name": "Taylor Allen",
+    "email": "taylor.allen83@demo-corp.example",
+    "department": "Sales",
+    "job_role": "Sales Development Rep",
+    "years_of_service": 3.7,
+    "hire_date": "2022-10-19",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0084",
+    "full_name": "Tracy Miller",
+    "email": "tracy.miller84@demo-corp.example",
+    "department": "Product",
+    "job_role": "Product Manager",
+    "years_of_service": 3.7,
+    "hire_date": "2022-10-19",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0085",
+    "full_name": "Liam Taylor",
+    "email": "liam.taylor85@demo-corp.example",
+    "department": "Operations",
+    "job_role": "Supply Chain Analyst",
+    "years_of_service": 13.0,
+    "hire_date": "2013-07-01",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0086",
+    "full_name": "Matthew King",
+    "email": "matthew.king86@demo-corp.example",
+    "department": "Finance",
+    "job_role": "Accountant",
+    "years_of_service": 6.3,
+    "hire_date": "2020-03-13",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0087",
+    "full_name": "Jordan Brown",
+    "email": "jordan.brown87@demo-corp.example",
+    "department": "IT",
+    "job_role": "Systems Administrator",
+    "years_of_service": 13.2,
+    "hire_date": "2013-04-19",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0088",
+    "full_name": "Benjamin Moore",
+    "email": "benjamin.moore88@demo-corp.example",
+    "department": "Finance",
+    "job_role": "Financial Analyst",
+    "years_of_service": 1.1,
+    "hire_date": "2025-05-26",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0089",
+    "full_name": "Olivia Jackson",
+    "email": "olivia.jackson89@demo-corp.example",
+    "department": "Legal",
+    "job_role": "Compliance Officer",
+    "years_of_service": 6.8,
+    "hire_date": "2019-09-13",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0090",
+    "full_name": "Ava Baker",
+    "email": "ava.baker90@demo-corp.example",
+    "department": "IT",
+    "job_role": "IT Support Specialist",
+    "years_of_service": 3.3,
+    "hire_date": "2023-03-14",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0091",
+    "full_name": "Alex Wright",
+    "email": "alex.wright91@demo-corp.example",
+    "department": "Engineering",
+    "job_role": "Engineering Manager",
+    "years_of_service": 13.9,
+    "hire_date": "2012-08-07",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0092",
+    "full_name": "Sofia Jones",
+    "email": "sofia.jones92@demo-corp.example",
+    "department": "IT",
+    "job_role": "IT Manager",
+    "years_of_service": 5.8,
+    "hire_date": "2020-09-12",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0093",
+    "full_name": "Liam Hill",
+    "email": "liam.hill93@demo-corp.example",
+    "department": "Sales",
+    "job_role": "Sales Manager",
+    "years_of_service": 5.1,
+    "hire_date": "2021-05-26",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0094",
+    "full_name": "Tracy King",
+    "email": "tracy.king94@demo-corp.example",
+    "department": "Sales",
+    "job_role": "Sales Manager",
+    "years_of_service": 5.0,
+    "hire_date": "2021-07-01",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0095",
+    "full_name": "Ethan Anderson",
+    "email": "ethan.anderson95@demo-corp.example",
+    "department": "Customer Success",
+    "job_role": "CS Manager",
+    "years_of_service": 8.5,
+    "hire_date": "2017-12-31",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0096",
+    "full_name": "Emily Thompson",
+    "email": "emily.thompson96@demo-corp.example",
+    "department": "Operations",
+    "job_role": "Supply Chain Analyst",
+    "years_of_service": 10.3,
+    "hire_date": "2016-03-13",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0097",
+    "full_name": "Harper Thomas",
+    "email": "harper.thomas97@demo-corp.example",
+    "department": "Marketing",
+    "job_role": "Digital Marketing Manager",
+    "years_of_service": 6.4,
+    "hire_date": "2020-02-06",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0098",
+    "full_name": "Kelly Davis",
+    "email": "kelly.davis98@demo-corp.example",
+    "department": "Engineering",
+    "job_role": "DevOps Engineer",
+    "years_of_service": 6.7,
+    "hire_date": "2019-10-19",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0099",
+    "full_name": "Matthew Jackson",
+    "email": "matthew.jackson99@demo-corp.example",
+    "department": "Legal",
+    "job_role": "Legal Assistant",
+    "years_of_service": 7.2,
+    "hire_date": "2019-04-20",
+    "status": "Active"
+  },
+  {
+    "employee_id": "EMP0100",
+    "full_name": "Drew King",
+    "email": "drew.king100@demo-corp.example",
+    "department": "Product",
+    "job_role": "UX Designer",
+    "years_of_service": 7.4,
+    "hire_date": "2019-02-06",
+    "status": "Active"
+  }
+]
